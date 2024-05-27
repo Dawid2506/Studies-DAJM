@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Ścieżki do plików CSV
-gamePath = 'csv/3Stardew Valley.csv'
-gamePathgame = 'csv/3Stardew ValleyGAME.csv'
+gamePath = 'csv/6fallout4.csv'
+gamePathgame = 'csv/6fallout4GAME.csv'
 title = 'Stardew Valley: Comparison of the number of players and price'
 
 # Wczytaj plik CSV z poprawnym separatorem
