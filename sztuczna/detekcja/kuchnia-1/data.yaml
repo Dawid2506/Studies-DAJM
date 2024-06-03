@@ -1,0 +1,15 @@
+names:
+- kubek
+- noz
+- talerz
+- widelec
+nc: 4
+roboflow:
+  license: Public Domain
+  project: kuchnia
+  url: https://universe.roboflow.com/kuchnia/kuchnia/dataset/1
+  version: 1
+  workspace: kuchnia
+test: C:\Users\dawid\Documents\GitHub\Studies DAJM\sztuczna\detekcja\kuchnia-1\test\images
+train: C:\Users\dawid\Documents\GitHub\Studies DAJM\sztuczna\detekcja\kuchnia-1\train\images
+val: C:\Users\dawid\Documents\GitHub\Studies DAJM\sztuczna\detekcja\kuchnia-1\valid\images
